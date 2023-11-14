@@ -3,6 +3,10 @@
 ## Descrição
 Um protótipo de um site de Ecommerce. Para a criação desse site foi utilizado de refêrencia os sites que foram citados a baixo, e apartir deles foi criado um próprio modelo de cadastro.
 
+## Função
+O site tem a função de emular um site do estilo Ecommerce na sua parte de cadastr. Com isso foi preciso que colocasse alguns informações que sites de estilo pedem.
+
+![Site](vdi/Ecommerce.gif)
 
 ## Sites pesquisados
 3 sites do formato Ecommerce foram utilizados como referência para o trabalho sendo os sites: Shopee, Netshoes e Pichau. 
